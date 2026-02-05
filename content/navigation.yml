@@ -3,5 +3,7 @@ navigation:
     label: Art
   - href: /guides
     label: Guides
+  - href: /terms
+    label: Terms
   - href: /contact
     label: Contact
