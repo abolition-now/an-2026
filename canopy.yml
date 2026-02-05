@@ -11,15 +11,8 @@ metadata:
   - subject
   - visual_motifs
 featured:
-  - https://iiif.archive.org/iiif/an_0028_abolitionwithbarbedwire/manifest.json
   - https://iiif.archive.org/iiif/an_0089_waterismedicine/manifest.json
-  - https://iiif.archive.org/iiif/an_0210_0211_restinpower/manifest.json
-  - https://iiif.archive.org/iiif/an_0148_abolitionpigcop/manifest.json
-  - https://iiif.archive.org/iiif/an_0073_youthsoeducated/manifest.json
-  - https://iiif.archive.org/iiif/an_0141_humanityoverhate/manifest.json
-  - https://iiif.archive.org/iiif/an_0007_stopcopcity/manifest.json
   - https://iiif.archive.org/iiif/an_0007_walaaloisjeceylgeorgefloydphoenix/manifest.json
-  - https://iiif.archive.org/iiif/an_0063_housingkeepsyouthfree/manifest.json
 search:
   page:
     title: Search
